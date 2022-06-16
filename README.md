@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muhmmad awd</h1>
 
 <div style="display:flex;">
-<p align="left"> <a href="https://twitter.com/muhmmadawd" target="blank"><img src="https://img.shields.io/twitter/follow/muhmmadawd?logo=twitter&style=for-the-badge" alt="muhmmadawd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhmmadawd" target="blank"><img src="https://img.shields.io/twitter/follow/muhmmadawd?logo=twitter&style=for-the-badge" alt="muhmmadawd" /></a>
 &nbsp;&nbsp;
-<p align="left"> <a href="https://linkedin.com/muhmmadawd" target="blank"><img src="https://img.shields.io/twitter/follow/muhmmadawd?logo=linkedin&style=for-the-badge" alt="muhmmadawd" /></a> </p>
+ <a href="https://linkedin.com/muhmmadawd" target="blank"><img src="https://img.shields.io/twitter/follow/muhmmadawd?logo=linkedin&style=for-the-badge" alt="muhmmadawd" /></a> </p>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=30&lines=full-stack+developer;programmer)](https://git.io/typing-svg)

@@ -8,21 +8,21 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=30&lines=full-stack+developer;programmer)](https://git.io/typing-svg)
-<strong>
 
-- 🔭 I’m currently working on [DatingApp](https://github.com/AwdMuhmmad/DatingApp)
 
-- 🌱 I’m currently learning **asp.net web API**
+ ### - 🔭 I’m currently working on [DatingApp](https://github.com/AwdMuhmmad/DatingApp) 
 
-- 👯 I’m looking to collaborate on [andresjosehr-portfolio](https://github.com/andresjosehr/andresjosehr-portfolio)
+### - 🌱 I’m currently learning **asp.net web API** 
 
-- 💬 Ask me about **javaScript, angular, c#, asp.net**
-- 📫 How to reach me **Muhmmad.Awd@gmail.com**
+ ### - 👯 I’m looking to collaborate on [andresjosehr-portfolio](https://github.com/andresjosehr/andresjosehr-portfolio) 
+
+ ### - 💬 Ask me about **javaScript, angular, c#, asp.net** 
+ ### - 📫 How to reach me **Muhmmad.Awd@gmail.com** 
   <img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 📄 Know about my experience
+ ### - 📄 Know about my experience 
 
-- ⚡ Fun fact **smiling is free 😁**
+ ### - ⚡ Fun fact **smiling is free 😁** 
 
 
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)

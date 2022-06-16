@@ -23,7 +23,8 @@
 - 📄 Know about my experience
 
 - ⚡ Fun fact **smiling is free 😁**
-<br> <br>
+
+
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 
 <br>

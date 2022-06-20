@@ -58,23 +58,10 @@
 &nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhmmadawd)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-<br>
-<div style="display:flex;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhmmadawd&show_icons=true&locale=en" alt="muhmmadawd" /></p>
-&nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhmmadawd&" alt="muhmmadawd" /></p>
-</div>
 
-<br>
-
-<div style="display:flex;">
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=muhmmadawd&show_icons=true&theme=radical)
 
-&nbsp;
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhmmadawd&theme=radical)](https://git.io/streak-stats)
 
 
 </div>

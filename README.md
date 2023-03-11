@@ -56,6 +56,7 @@
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=muhmmadawd&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhmmadawd&" alt="muhmmadawd" /></p>
 
 
 </div>

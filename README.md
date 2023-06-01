@@ -1,9 +1,8 @@
 # Hi, I'm Muhmmad awd 👋
 
 - Passionate frontend developer specializing in building amazing websites with React.js.
-- Strong foundation in data structures and problem-solving.👨‍💻
-- Recently earned a JavaScript Data Structures and Algorithms certification from freeCodeCamp.
-- Actively solving LeetCode challenges to sharpen my coding skills.🏆
+- Recently earned a JavaScript Data Structures and Algorithms certification from freeCodeCamp.🏆
+- Strong foundation in data structures and problem-solving, by solving LeetCode challenges.
 
 ## What I Do
 
@@ -22,6 +21,6 @@ My primary objective is to establish a strong foundation in JavaScript and becom
 
 ## Let's Connect
 
-I'm always looking to collaborate, learn from others, and contribute to exciting projects. If you'd like to get in touch or discuss potential opportunities, feel free to reach out to me through [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/muhmmadawd/)) or [email](muhmmad.awd@gmail.com).
+I'm always looking to collaborate, learn from others, and contribute to exciting projects. If you'd like to get in touch or discuss potential opportunities, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/muhmmadawd/) or [email](muhmmad.awd@gmail.com).
 
 Let's create exceptional web experiences together. Are you ready? 😄
